@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,hassbian.com
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,sjxt.vip
 DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,api.letsencrypt.org
