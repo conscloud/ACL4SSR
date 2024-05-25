@@ -7,16 +7,16 @@ DOMAIN-SUFFIX,hassbian.com
 DOMAIN-SUFFIX,sjxt.vip
 DOMAIN-SUFFIX,jsdelivr.net
 ## pt网站
-- DOMAIN-SUFFIX,hdhome.org,DIRECT
-- DOMAIN-SUFFIX,hdarea.co,DIRECT
-- DOMAIN-SUFFIX,nanyangpt.com,DIRECT
-- DOMAIN-SUFFIX,oshen.win,DIRECT
-- DOMAIN-SUFFIX,hddolby.com,DIRECT
-- DOMAIN-SUFFIX,btschool.club,DIRECT
-- DOMAIN-SUFFIX,hdcity.city,DIRECT
-- DOMAIN-SUFFIX,hdtime.org,DIRECT
-- DOMAIN-SUFFIX,pterclub.com,DIRECT
-- DOMAIN-SUFFIX,beitai.pt,DIRECT
-- DOMAIN-SUFFIX,haidan.video,DIRECT
-- DOMAIN-SUFFIX,nicept.net,DIRECT
+DOMAIN-SUFFIX,hdhome.org,DIRECT
+DOMAIN-SUFFIX,hdarea.co,DIRECT
+DOMAIN-SUFFIX,nanyangpt.com,DIRECT
+DOMAIN-SUFFIX,oshen.win,DIRECT
+DOMAIN-SUFFIX,hddolby.com,DIRECT
+DOMAIN-SUFFIX,btschool.club,DIRECT
+DOMAIN-SUFFIX,hdcity.city,DIRECT
+DOMAIN-SUFFIX,hdtime.org,DIRECT
+DOMAIN-SUFFIX,pterclub.com,DIRECT
+DOMAIN-SUFFIX,beitai.pt,DIRECT
+DOMAIN-SUFFIX,haidan.video,DIRECT
+DOMAIN-SUFFIX,nicept.net,DIRECT
 ## pt网站结束
